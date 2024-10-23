@@ -6,7 +6,7 @@
 /*   By: emansoor <emansoor@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/17 13:11:44 by emansoor          #+#    #+#             */
-/*   Updated: 2024/10/20 14:15:44 by emansoor         ###   ########.fr       */
+/*   Updated: 2024/10/23 14:34:05 by emansoor         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -73,6 +73,7 @@ void	ft_putnbr_fd(int n, int fd);
 typedef struct s_list
 {
 	void			*content;
+	int				index;
 	struct s_list	*next;
 }					t_list;
 
