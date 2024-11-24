@@ -1,6 +1,6 @@
 # 42Libft
 
-A self-made library of functions that should act exactly or close to their corresponding C standard library functions.
+A re-coded library of functions that should act exactly or close to their corresponding C Standard Library functions. This library contains a few basic singly linked list tools as well as some additional c-string manipulation tools.
 
 ### Compilation
 
