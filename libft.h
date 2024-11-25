@@ -6,7 +6,7 @@
 /*   By: emansoor <emansoor@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/17 13:11:44 by emansoor          #+#    #+#             */
-/*   Updated: 2024/11/24 15:55:56 by emansoor         ###   ########.fr       */
+/*   Updated: 2024/11/25 16:26:22 by emansoor         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 
 # include <stdlib.h>
 # include <unistd.h>
+# include "get_next_line.h"
 
 # define MAX_INT 2147483647
 # define MAX_ULONG 4294967295
