@@ -1,6 +1,6 @@
 # 42Libft
 
-A re-coded library of functions that should act exactly or close to their corresponding C Standard Library functions. This library contains a few basic singly linked list tools as well as some additional c-string manipulation tools.
+42 school project of a re-coded library of functions that should act exactly or close to their corresponding C Standard Library equivalents. This library contains a few basic singly linked list tools as well as some additional c-string manipulation tools.
 
 ## Compilation
 
